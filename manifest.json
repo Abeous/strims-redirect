@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Redirect to Strims",
-  "version": "0.1.1",
+  "version": "0.1.2",
 
   "description": "This redirects you to strims.gg/{platform}/{name}",
 
